@@ -1,0 +1,33 @@
+div {
+    border: 13px solid chocolate;
+    float: left;
+    background: white;
+    margin: 85px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    box-shadow: 2px 2px 4px,
+                2px 2px 4px inset;
+
+
+}
+
+body, html{
+    height: 100%;
+    margin: 0;
+}
+
+.bg{
+    background-image: url(roma.jpg);
+    margin-left: 100px;
+    float:left;
+}
+
+p{
+    margin: 30px;
+}
+
+h1{
+    margin: 30px;
+}
